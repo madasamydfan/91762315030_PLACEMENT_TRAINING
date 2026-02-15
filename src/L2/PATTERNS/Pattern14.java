@@ -1,4 +1,4 @@
-package PATTERNS;
+package L2.PATTERNS;
 
 public class Pattern14 {
     public static void main(String[] args) {

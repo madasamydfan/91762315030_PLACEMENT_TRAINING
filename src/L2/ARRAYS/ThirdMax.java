@@ -1,4 +1,4 @@
-package ARRAYS;
+package L2.ARRAYS;
 
 public class ThirdMax {
     public static int thirdMax(int[] nums) {

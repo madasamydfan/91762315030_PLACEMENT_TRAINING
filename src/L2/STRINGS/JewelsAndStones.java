@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 import java.util.HashMap;
 public class JewelsAndStones {
     public static int numJewelsInStones(String jewels, String stones) {

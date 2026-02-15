@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 
 public class ScoreOfAString {
     public static  int scoreOfString(String s) {

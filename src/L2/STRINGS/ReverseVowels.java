@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 
 public class ReverseVowels {
     public static boolean isVowel(char c){

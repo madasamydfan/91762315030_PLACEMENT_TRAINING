@@ -1,4 +1,4 @@
-package MATH;
+package L2.MATH;
 
 public class LargestOddNumber {
     public static String largestOddNumber(String num) {

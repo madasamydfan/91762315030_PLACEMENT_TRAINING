@@ -1,4 +1,4 @@
-package ARRAYS;
+package L2.ARRAYS;
 import java.util.HashMap;
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {

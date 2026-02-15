@@ -1,6 +1,7 @@
-package ARRAYS;
-import java.util.List;
+package L2.ARRAYS;
+
 import java.util.ArrayList;
+import java.util.List;
 
 public class DisappearedNumbers {
     public static List<Integer> findDisappearedNumbers(int[] nums) {

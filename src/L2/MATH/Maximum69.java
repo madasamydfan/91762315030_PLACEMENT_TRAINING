@@ -1,4 +1,4 @@
-package MATH;
+package L2.MATH;
 
 public class Maximum69 {
     public static int maximum69Number (int num) {

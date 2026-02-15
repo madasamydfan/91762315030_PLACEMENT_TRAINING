@@ -1,4 +1,4 @@
-package MATH;
+package L2.MATH;
 
 public class NoOfCommonFactors {
     public static int commonFactors(int a, int b) {

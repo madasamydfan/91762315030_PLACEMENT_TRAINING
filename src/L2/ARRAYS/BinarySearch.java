@@ -1,4 +1,4 @@
-package ARRAYS;
+package L2.ARRAYS;
 
 public class BinarySearch {
     public static int search(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package MATH;
+package L2.MATH;
 
 public class MissingNumber {
     public static int missingNumber(int[] nums) {

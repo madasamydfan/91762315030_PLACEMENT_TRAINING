@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 
 public class ValidAnagram {
     public static void main(String[] args) {

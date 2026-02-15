@@ -1,4 +1,4 @@
-package PATTERNS;
+package L2.PATTERNS;
 import java.util.Scanner;
 
 public class Pattern22 {

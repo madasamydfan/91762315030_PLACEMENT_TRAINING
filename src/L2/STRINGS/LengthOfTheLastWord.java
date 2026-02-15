@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 
 public class LengthOfTheLastWord {
     public static void main(String[] args) {

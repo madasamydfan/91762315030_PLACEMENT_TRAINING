@@ -1,4 +1,4 @@
-package STRINGS;
+package L2.STRINGS;
 
 public class DefangingIpAddress {
     public static String defangIPaddr(String address) {

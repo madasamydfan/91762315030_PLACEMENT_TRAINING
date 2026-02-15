@@ -1,4 +1,4 @@
-package ARRAYS;
+package L2.ARRAYS;
 import java.util.Arrays;
 
 public class LongestSubsequence {

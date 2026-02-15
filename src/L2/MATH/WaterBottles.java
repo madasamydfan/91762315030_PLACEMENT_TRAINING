@@ -1,4 +1,4 @@
-package MATH;
+package L2.MATH;
 
 public class WaterBottles {
     public  static  int numWaterBottles(int numBottles, int numExchange) {
